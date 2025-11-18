@@ -1,4 +1,4 @@
-package org.cardinal.movement;
+package org.lib.cardinallib;
 
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware.DcMotor;
