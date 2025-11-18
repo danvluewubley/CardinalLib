@@ -1,0 +1,9 @@
+jdk:
+  - openjdk17
+
+build:
+  tools:
+    gradle: 7.5
+
+install:
+  - echo "Using manual AAR dependencies"
