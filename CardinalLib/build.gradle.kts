@@ -13,11 +13,19 @@ android {
     defaultConfig {
         minSdk = 24
     }
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_11
+        targetCompatibility = JavaVersion.VERSION_11
+    }
 }
+
+
 
 repositories {
     google()
     mavenCentral()
+//    maven { url = uri("https://jitpack.io") } added line
 }
 
 dependencies {
