@@ -1,4 +1,4 @@
-package org.lib.cardinallib.utils
+package org.lib.cardinallib.utils;
 
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware.Gamepad;
