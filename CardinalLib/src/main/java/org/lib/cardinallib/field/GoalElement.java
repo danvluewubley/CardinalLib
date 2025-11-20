@@ -17,6 +17,7 @@ public class GoalElement extends GameElement {
         this.orientation = 0;
     }
 
+    @Override
     public Pose2d getPose() {
         return pose;
     }
